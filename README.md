@@ -1,5 +1,6 @@
 # Design-Robot-feet
 Design feet joints contain servo motor.<br>
+
 defintions:
 - <code style="color : blue">**Servo motor**</code> -> is a device that translates an electrical signal into precise mechanical motion. It typically consists of a motor, a position sensor, and a control circuit. Servo motors are widely used in applications requiring accurate control of position, speed, and acceleration, such as robotics, industrial automation, and remote-controlled systems.
 - <code style="color : red">**SolidWorks**</code> -> is a 3D CAD and CAE software used for designing and modeling products. It's essential in industries like engineering and manufacturing for creating detailed drawings and simulations.
